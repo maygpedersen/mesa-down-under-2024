@@ -1058,6 +1058,9 @@ a {
   color: #43464d;
   text-decoration: underline;
   transition: opacity .2s;
+  /* 
+  display: block;
+  */
   display: inline-flex;
 }
 
@@ -1074,7 +1077,9 @@ ul {
   margin-bottom: 10px;
   padding-left: 40px;
   list-style-type: disc;
+  /*
   display: inline-flex;
+  */
 }
 
 li {
