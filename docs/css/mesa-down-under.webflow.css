@@ -1091,8 +1091,8 @@ ul {
 .google-map iframe {
   height: 100%;
   width: 100%;
-  left: 50%;
-  top: 50%;
+  left: 0;
+  top: 0;
   position: absolute;
 }
 /* ------ Finished adding lines */
