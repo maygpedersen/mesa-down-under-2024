@@ -2262,7 +2262,10 @@ figcaption {
   clear: none;
   text-align: right;
   text-decoration: none;
+  /*
   display: inline-block;
+  */
+  display: inline-flex;
   overflow: auto;
 }
 
