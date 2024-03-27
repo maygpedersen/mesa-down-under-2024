@@ -1058,7 +1058,7 @@ a {
   color: #43464d;
   text-decoration: underline;
   transition: opacity .2s;
-  display: block;
+  display: inline-flex;
 }
 
 a:hover {
