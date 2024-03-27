@@ -1092,6 +1092,7 @@ ul {
   height: 100%;
   width: 100%;
   left: 60px;
+  right: 60px;
   top: 0;
   position: absolute;
 }
