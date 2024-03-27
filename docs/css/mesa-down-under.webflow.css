@@ -1074,6 +1074,7 @@ ul {
   margin-bottom: 10px;
   padding-left: 40px;
   list-style-type: disc;
+  display: inline-flex;
 }
 
 li {
